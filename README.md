@@ -25,3 +25,5 @@ Prajapati Het Rameshbhai
 Porwal Dhruvansh Chetankumar 
 Prajapati Devang Jagdishbhai 
 Prajapati Jayesh Prakashbhai
+ live link https://jayeshprajapati07.github.io/AQI-Weather-Lab_web/
+ 
